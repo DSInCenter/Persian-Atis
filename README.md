@@ -56,7 +56,7 @@ There are Persian and English datasets available with splits and loading code.
 ---
 ### Citing & Authors
 
-Our dataset for joint intent detection and slot filling in Persian language was created at the **[Natural Language Processing Innovation Center (NLPIC)](https://nlpic.aut.ac.ir/)** at **Amirkabir University of Technology** with the collaboration of all the members of the lab. The team at NLPIC worked hard to extend the original ATIS dataset to create a comprehensive and publicly available benchmark for the Persian language. We are proud of the efforts of all the members of the lab who contributed to the development of this benchmark.
+Our dataset for joint intent detection and slot filling in Persian language was created at the **[Data Science Innovation Center)](https://dslab.aut.ac.ir/)** and **[Natural Language Processing Innovation Center (NLPIC)](https://nlpic.aut.ac.ir/)** at **Amirkabir University of Technology**. The current dataset extends the original ATIS dataset to create a comprehensive and publicly available benchmark for the Persian language. We are proud of the efforts of all the members of the lab who contributed to the development of this benchmark.
 
 To acknowledge the contribution of our lab members, we have included a citation on our GitHub page, where the dataset is publicly available. This citation recognizes the work of our lab and highlights the importance of collaboration in achieving our research goals. We believe that this citation will help to increase the visibility of our dataset and encourage others in the NLP community to use and build upon our work.
 [A Persian Benchmark for Joint Intent Detection and Slot Filling](https://arxiv.org/abs/2303.00408):
